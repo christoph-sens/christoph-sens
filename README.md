@@ -5,7 +5,7 @@ AWS: backend development in Java and Kotlin (Spring, Quarkus, JEE), single-page 
 pipelines, and step-by-step migrations without a big bang. I also coach teams, on site or
 remotely via pair programming.
 
-🌐 [christoph-sens.com](https://www.christoph-sens.com/) · Projektanfragen gern auch auf Deutsch.
+🌐 [christoph-sens.com](https://www.christoph-sens.com/) · ✍️ [Blog](https://christoph-sens.github.io/) · Projektanfragen gern auch auf Deutsch.
 
 ## Open source: the overflow family
 
